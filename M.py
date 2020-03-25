@@ -1,0 +1,5 @@
+print("Multiplication")
+a=input("Enter First Number ")
+b=input("Enter Second Number ")
+print("Your Answer is Given Below :")
+print(a*b)

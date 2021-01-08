@@ -1,5 +1,0 @@
-print("Subtraction")
-a=input("Enter Big Number ")
-b=input("Enter small Number ")
-print("Your Answer is given below :")
-print(a-b)

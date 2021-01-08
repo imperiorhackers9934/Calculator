@@ -30,10 +30,10 @@ print("[3] Multiplication")
 print("[4] Division")
 a=input("Enter Your Operation ")
 if (a is 1) : 
-   import A
+   Add()
 if (a is 2) : 
-   import S
+   Sub()
 if (a is 3) : 
-   import M
+   Mult()
 if (a is 4) : 
-   import D
+   Div()

@@ -1,5 +1,0 @@
-print("Addition")
-a=input("Enter first Number ")
-b=input("Enter second Number ")
-print("Your Answer is given below :")
-print(a+b)
